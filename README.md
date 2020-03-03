@@ -1,4 +1,4 @@
-# Example Application - Complimentr
+## Application - Complimentr
 
 Created this application in Conjuction with an APIs for Beginners course.
 
