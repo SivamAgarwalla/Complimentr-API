@@ -1,6 +1,6 @@
 ## Application - Complimentr
 
-Created this application in Conjuction with an APIs for Beginners course.
+Created this application in while learning about APIs and their usage.
 
 
 ## Local Installation
